@@ -10,6 +10,10 @@ function forLoop(array){
   return array;
 }
 
+
+while ([condition]){
+  
+}
  
 
 
