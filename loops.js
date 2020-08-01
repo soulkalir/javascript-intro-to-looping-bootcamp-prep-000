@@ -19,6 +19,9 @@ function whileLoop(number){
 }
  
 
+function doWhileLoop(integer){
+  
+}
 
 
 
