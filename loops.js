@@ -11,9 +11,10 @@ function forLoop(array){
 }
 
 function(number){
+  let
+  while (){
 }
-while (){
-  
+
 }
  
 
