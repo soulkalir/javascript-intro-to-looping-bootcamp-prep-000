@@ -10,7 +10,8 @@ function forLoop(array){
   return array;
 }
 
-
+function(number){
+}
 while (){
   
 }
