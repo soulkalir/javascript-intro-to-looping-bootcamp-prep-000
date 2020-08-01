@@ -11,7 +11,7 @@ function forLoop(array){
 }
 
 
-while ([condition]){
+while (){
   
 }
  
