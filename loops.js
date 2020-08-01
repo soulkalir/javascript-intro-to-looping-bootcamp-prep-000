@@ -14,9 +14,8 @@ function whileLoop(number){
   let countdown = number;
   while (countdown>0){
     countdown--;
-    return 'done'
 }
-
+ return 'done'
 }
  
 
